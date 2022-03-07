@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/jakub-onderka/php-console-color" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/beyondcode/laravel-dump-server" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/lcobucci/jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/erusev/parsedown" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/zendframework/zend-diactoros" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/nexmo/client" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/nexmo/client-core" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/kylekatarnls/update-helper" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/php-http/httplug" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/php-http/guzzle6-adapter" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/php-http/promise" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/http-client-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/laravel/slack-notification-channel" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/laravel/nexmo-notification-channel" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/api-rest-SalonEvimini/vendor/symfony/process" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
